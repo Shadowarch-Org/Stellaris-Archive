@@ -1,4 +1,4 @@
-building_slave_stronghold = {
+stararch_building_sample = {
 	base_buildtime = 240
 	position_priority = 100
 	can_be_ruined = no
